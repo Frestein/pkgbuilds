@@ -1,0 +1,20 @@
+[__config__]
+oldver = "old_ver.json"
+newver = "new_ver.json"
+
+[rassumfrassum]
+source = "github"
+github = "joaotavora/rassumfrassum"
+use_latest_release = true
+prefix = "v"
+
+[tclint]
+source = "github"
+github = "nmoroze/tclint"
+use_latest_release = true
+prefix = "v"
+
+[telegram-tdlib]
+source = "github"
+github = "g000sha256/TDLib"
+use_latest_release = true
