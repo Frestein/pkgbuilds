@@ -2,6 +2,12 @@
 oldver = "old_ver.json"
 newver = "new_ver.json"
 
+[antifennel]
+source = "git"
+git = "https://git.sr.ht/~technomancy/antifennel"
+use_max_tag = true
+prefix = "v"
+
 [rassumfrassum]
 source = "github"
 github = "joaotavora/rassumfrassum"
